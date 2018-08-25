@@ -1,3 +1,2 @@
 ﻿2. Git Projects
-added some changes
-changed
+I am learning git
