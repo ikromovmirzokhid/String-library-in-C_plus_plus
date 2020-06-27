@@ -1,2 +1,0 @@
-﻿2. Git Projects
-I am learning git
